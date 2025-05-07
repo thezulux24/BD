@@ -34,11 +34,12 @@ streamlit run main.py
 
 ---
 
-## 📁 Estructura del Proyecto *(opcional)*
+## 📁 Estructura del Proyecto
 
 ```bash
 .
 ├── main.py
+├── book_actions.py
 ├── requirements.txt
 └── README.md
 ```
