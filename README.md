@@ -46,8 +46,8 @@ streamlit run main.py
 
 ---
 
-## 🧑‍💻 Autor *(opcional)*
+## 🧑‍💻 Autor
 
-Brayan Zuluaga  
+Brayan Zuluaga
 Proyecto para el curso de **Bases de Datos**  
 2025
